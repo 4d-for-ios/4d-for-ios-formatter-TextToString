@@ -4,6 +4,17 @@
 
 * **Format:** Text ⟶ String
 * **Type:** basic formatter
+  
+Example to convert a text database value to another value to display defined in [`choiceList`](https://github.com/4d-go-mobile/formatter-TextToString/blob/master/manifest.json#L5)
+  
+
+| Database | Display | 
+| - | - | 
+| FRA | France | 
+| MAR  | Morocco | 
+| USA  | United State | 
+| AU | Australia | 
+
 
 ## How to integrate
 
